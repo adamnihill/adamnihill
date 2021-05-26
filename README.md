@@ -10,6 +10,8 @@ The purpose of the Web Application Development project was to demonstrate an und
 
 ## [Programming and Scripting](https://github.com/adamnihill/programming-and-scripting)
 
+This repository contains an ivestigation into the Fisher Iris dataset. This is one of the best known databases to be found in pattern recognition literature, containing data on three Iris species, Iris Setosa, Iris Versicolor, and Iris Virginica. Four features, petal length and width, and sepal length and width, were measured on fifty samples of each species. Fisher determined that one of the species was linearly separable from the other two. Python, and specifically the pandas, numpy, and matplotlib, was used to visualise and describe the relationship between the Iris species. 
+
 ## [Programming for Data Analysis](https://github.com/adamnihill/programming-data-analysis)
 
 ## [Fundamentals of Data Analysis](https://github.com/adamnihill/fundamentals-data-analysis)
