@@ -6,7 +6,7 @@ This github profile serves as a portfolio for the projects I have completed as p
 
 ## [Web Application Development](https://github.com/adamnihill/web-application-development)
 
-The purpose of the Web Application Development project was to demonstrate an understanding of HTML, JavaScript, and CSS. This was achieved by creating a demo website for a fiction company. I have since applied the skills developed in this module to the creation of a website for a local company, linked [here](akcoops.netlify.app). This website is currently a work in progress but has been built using the fundamentals I learned creating the website for this project. 
+The purpose of the Web Application Development project was to demonstrate an understanding of HTML, JavaScript, and CSS. This was achieved by creating a demo website for a fiction company. I have since applied the skills developed in this module to the creation of a website for a local company, linked [here](https://akcoops.netlify.app). This website is currently a work in progress but has been built using the fundamentals I learned creating the website for this project. 
 
 ## [Programming and Scripting](https://github.com/adamnihill/programming-and-scripting)
 
