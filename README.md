@@ -14,6 +14,8 @@ This repository contains an ivestigation into the Fisher Iris dataset. This is o
 
 ## [Programming for Data Analysis](https://github.com/adamnihill/programming-data-analysis)
 
+This repository concerns the numpy.random package, used to generate random data in python. Included in this repository is a jupyter notebook that explains and visualised various functions of this package. There is particular interest paid towards the different types of distribution of randomly generated data and how these distributions may be applied to real world scenarios.
+
 ## [Fundamentals of Data Analysis](https://github.com/adamnihill/fundamentals-data-analysis)
 
 ## [Machine Learning and Statistics](https://github.com/adamnihill/machine-learning-statistics)
