@@ -33,3 +33,5 @@ This repository contains an analysis of five sorting algorithms are examined, Bu
 This repository contains the code for the Project for the module Data Representation and Querying. The primary function of this app is to provide the user with an interface to store the details of football players on a team. It contains two database access objects, SquadDAO and AuthDAO. The main Flask application is contained in the file server.py. The templates folder contains the html files for rendering the Flask application. initdb.sql contains the sql commands from creating the required tables in this project requirents.txt contain the venv requirements for the project
 
 ## [Applied Databases](https://github.com/adamnihill/applied-databases)
+
+This repository contains four sections. SQL queries that satisfy the requirements of the project specification; Mongo Queries that satisfy the requirements of the project specifications; a written discussion on whether a sample database is well normalised; a python app that demonstrates accessing the databases, returning requests from the databases, updating entries in the databases.
